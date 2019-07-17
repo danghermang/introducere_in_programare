@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Proiect Convertor.cpp
+d:\facultate\introducere in programare\proiect\proiect convertor\proiect convertor\proiect convertor.cpp(10): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+d:\facultate\introducere in programare\proiect\proiect convertor\proiect convertor\proiect convertor.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Proiect Convertor.vcxproj -> D:\Facultate\Introducere in programare\proiect\Proiect Convertor\Debug\Proiect Convertor.exe
